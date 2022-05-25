@@ -1,0 +1,13 @@
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+    margin: 0 0 0 0;
+    background-color: antiquewhite;
+}
+
+th, td {
+    padding: 10px 20px;
+    /* max-width: 100%; */
+    word-wrap: break-word;
+}
